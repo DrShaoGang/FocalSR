@@ -1,2 +1,1 @@
-# FocalSR
-Super resolution model for images and remote sensing data 
+Put downloaded pre-trained models here.
